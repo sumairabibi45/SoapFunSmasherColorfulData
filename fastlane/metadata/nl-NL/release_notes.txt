@@ -1,1 +1,1 @@
-Bugfixes, prestatieverbeteringen, metadata-lokalisatie
+Prestatieverbetering, bugfixes

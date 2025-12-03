@@ -1,1 +1,1 @@
-Virheenkorjauksia, suorituskyvyn parannuksia, metatietojen lokalisointi
+Suorituskyvyn parannuksia, virheenkorjauksia

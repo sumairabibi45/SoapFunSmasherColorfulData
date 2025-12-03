@@ -1,1 +1,1 @@
-Corecții de erori, îmbunătățiri de performanță, localizare a metadatelor
+Îmbunătățirea performanței, remedierea erorilor

@@ -1,1 +1,1 @@
-Ispravci programskih pogrešaka, poboljšanja performansi, lokalizacija metapodataka
+Poboljšanje performansi, ispravci grešaka
